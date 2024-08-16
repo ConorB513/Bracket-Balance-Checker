@@ -14,6 +14,8 @@ Doubly linked lists, stacks, File IO
 ## Version History
 * 0.1
     * Initial Release
+*0.2
+    * Improved Readability
 
 ## Acknowledgments
 
