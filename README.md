@@ -1,4 +1,4 @@
-# BracketChecker
+# Bracket Balance Checker
 
 Bracker balance checker algorithm using a stack to ensure that a given file has balanced brackets
 
@@ -21,5 +21,5 @@ Doubly linked lists, stacks, File IO
 
 ## Acknowledgments
 
-*This project was given as an assignment for my Data Structures and Programming (CMPT 225) class 
+*This project was given as an assignment for my Data Structures and Programming class (CMPT 225 - SFU)
 *Help with File input and checking status of file (is_open method) -> https://www.geeksforgeeks.org/how-to-open-and-close-file-in-cpp/
