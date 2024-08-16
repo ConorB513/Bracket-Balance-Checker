@@ -5,7 +5,7 @@ Bracker balance checker algorithm using a stack to ensure that a given file has 
 ## Description
 
 Written in C++ and created for my data structures and programming class, this project contains three things. First is an implementation of a doubly linked list with classes for both each node of the doubly linked
-list and the doubly linked list as a whole. second is a basic stack data structure created using a doubly linked list. Third is the algorithm (defined in main) that reads in a file and checks to ensure a given file
+list and the doubly linked list as a whole. second is a basic stack data structure, provided by Professor Victor Cheung, using a doubly linked list as an internal storage. Third is the algorithm (defined in main) that reads in a file and checks to ensure a given file
 has balanced brackets. 
 
 ## Topics 
@@ -15,8 +15,9 @@ Doubly linked lists, stacks, File IO
 * 0.1
     * Initial Release
 
-*0.2
+* 0.2
     * Improved Readability
+ 
 
 ## Acknowledgments
 
